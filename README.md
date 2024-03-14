@@ -1,8 +1,5 @@
 # Django-WebApp       <img alt="GitHub" src="https://img.shields.io/github/license/smahesh29/Django-WebApp">
 
-
-This project was done by me as a assignment for an internship.
-
 <h2>Assignment Problem Statement:</h2>
 
 <h4>Part 1:</h4>
